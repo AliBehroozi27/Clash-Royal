@@ -1,6 +1,6 @@
 # Clash-Royal
-basic programming project (university course)
+Basic Programming Project (University Course)
 
-its a game based on famous game with the same name Clash-Royal using pygame.
+a game based on a famous game with the same name Clash-Royal using pygame.
 
 Autumn 2018
